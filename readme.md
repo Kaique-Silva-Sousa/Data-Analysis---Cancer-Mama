@@ -5,7 +5,7 @@ Este projeto é uma iniciativa pessoal com o objetivo de aprimorar meus conhecim
 ## Dados Utilizados
 
 Os dados são extraídos de um conjunto disponível no Kaggle, com informações sobre o câncer de mama em Wisconsin.  
-[Acesse os dados aqui.](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/code)
+[Acesse os dados aqui.](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data)
 
 ---
 
